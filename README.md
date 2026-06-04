@@ -1,7 +1,7 @@
-# TP - CNN from scratch vs Transfer Learning : Classification Chats/Chiens
+# TP de CNN from scratch vs Transfer Learning : Classification Chats/Chiens
 
 **Auteur** : Eudoxie ABOUTA  
-**Cours** : Master Intelligence Artificielle - DIT  
+**Cours** : Master Intelligence Artificielle au DIT  
 
 ---
 

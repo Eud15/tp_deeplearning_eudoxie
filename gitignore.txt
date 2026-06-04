@@ -1,0 +1,9 @@
+data/
+Cat_Dog_data/
+*.pt
+*.pth
+runs/
+checkpoints/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
